@@ -1,0 +1,7 @@
+.DogList img {
+    width: 200px;
+    height: auto;
+    border-radius: 100%;
+    border: 8px solid black;
+    box-shadow: 0 0 10px grey;
+}

@@ -1,0 +1,22 @@
+.Color {
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    margin-top: 10vh;
+    border: 10px solid white;
+    border-radius: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    text-shadow: black 0 0 15px;
+    box-shadow: grey 0 0 15px;
+}
+
+.Color a {
+    color: white;
+}
